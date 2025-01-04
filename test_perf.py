@@ -2,7 +2,7 @@ import time
 from maze import Maze
 import matplotlib.pyplot as plt
 
-test_sizes = [5, 10, 50, 100, 200, 500]
+test_sizes = [5, 10, 50, 100, 200, 500, 1000]
 execution_times = []
 
 def main():
